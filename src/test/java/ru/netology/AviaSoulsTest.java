@@ -1,7 +1,7 @@
+package ru.netology;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.AviaSouls;
-import ru.netology.Ticket;
 
 import java.util.Arrays;
 import java.util.Comparator;
